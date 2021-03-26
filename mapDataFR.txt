@@ -1,0 +1,233 @@
+﻿latitude,longitude,name,desc,color,source,precision
+42.502656,-71.419791,"344 Great Road, Acton, MA 01720","344 Great Rd, Acton, Middlesex, MA, US",,MapQuest,address
+42.062038,-72.631739,"163 Silver Street, Agawam, MA 01001","163 Silver St, Agawam, Hampden, MA, US",,MapQuest,address
+42.853758,-70.943917,"5 Highland St, Amesbury, MA 01913","5 Highland St, Amesbury, Essex, MA, US",,MapQuest,address
+42.84644,-70.911505,"100 Macy Street, Amesbury, MA 01913","100 Macy St, Amesbury, Essex, MA, US",,MapQuest,address
+42.376887,-72.518753,"70 Boltwood Walk, Amherst, MA 01002","70 Boltwood Walk, Amherst, Hampshire, MA, US",,MapQuest,address
+42.368585,-72.533467,"165 University Drive, Amherst, MA 01002","165 University Dr, Amherst, Hampshire, MA, US",,MapQuest,address
+42.39182,-72.528442,"1 Campus Center Way, Amherst, MA 01003","1 Campus Center Way, Amherst, Hampshire, MA, US",,MapQuest,address
+42.41679,-71.160556,"833 Massachusetts Avenue, Arlington, MA 02476","833 Massachusetts Ave, Arlington, Middlesex, MA, US",,MapQuest,address
+42.25683,-71.426276,"47 Pond St, Ashland, MA 01721","47 Pond St, Ashland, Middlesex, MA, US",,MapQuest,address
+41.949109,-71.289473,"191 N. Main St., Attleboro, MA 02703","191 N Main St, Attleboro, Bristol, MA, US",,MapQuest,address
+42.025229,-71.490133,"370 Pulaski Blvd, Bellingham, MA 02019","370 Pulaski Blvd, Bellingham, Norfolk, MA, US",,MapQuest,address
+42.383289,-71.180992,"264 Trapelo Rd, Belmont, MA 02478","264 Trapelo Rd, Belmont, Middlesex, MA, US",,MapQuest,address
+42.658233,-72.561258,"220 South St, Bernardston, MA 01337","220 South St, Bernardston, Franklin, MA, US",,MapQuest,address
+42.554996,-70.881408,"434 Rantoul St., Beverly, MA 01915","434 Rantoul St, Beverly, Essex, MA, US",,MapQuest,address
+42.572764,-70.884053,"30 Tozer Rd, Beverly, MA 01915","30 Tozer Rd, Beverly, Essex, MA, US",,MapQuest,address
+42.335559,-71.072161,"85 E Concord St, Boston, MA 02118","85 E Concord St, Boston, Suffolk, MA, US",,MapQuest,address
+42.33396,-71.076482,"874 Harrison Ave, Boston, MA 02118","874 Harrison Ave, Boston, Suffolk, MA, US",,MapQuest,address
+42.354439,-71.059103,"55 Summer St, Boston, MA 02110","55 Summer St, Boston, Suffolk, MA, US",,MapQuest,address
+42.372854,-71.040411,"120 Liverpool Street, Boston, MA 02128","120 Liverpool St, Boston, Suffolk, MA, US",,MapQuest,address
+42.346708,-71.098891,"4 Jersey St, Boston, MA 02215","4 Jersey St, Boston, Suffolk, MA, US",,MapQuest,address
+42.348176,-71.084427,"900 Boylston St, Boston, MA 02115","900 Boylston St, Boston, Suffolk, MA, US",,MapQuest,address
+42.332161,-71.093534,"1350 Tremont St, Roxbury, MA 02120","1350 Tremont St, Roxbury Crossing, Suffolk, MA, US",,MapQuest,address
+42.336927,-71.047928,"409 W Broadway, South Boston, MA 02127","409 W Broadway, S Boston, Suffolk, MA, US",,MapQuest,address
+42.349702,-71.065303,"279 Tremont Street, Boston, MA 02116","279 Tremont St, Boston, Suffolk, MA, US",,MapQuest,address
+42.281807,-71.087409,"825 Morton St, Boston, MA 02126","825 Morton St, Mattapan, Suffolk, MA, US",,MapQuest,address
+42.76155,-71.117554,"145 Ward Hill Avenue, Bradford, MA 10845","145 Ward Hill Ave, Haverhill, Essex, MA, US",,MapQuest,address
+42.227976,-71.003742,"178 Washington St., Braintree, MA 02184","178 Washington St, Braintree, Norfolk, MA, US",,MapQuest,address
+42.083865,-71.005654,"355 Centre St., Brockton, MA 02302","355 Centre St, Brockton, Plymouth, MA, US",,MapQuest,address
+42.060487,-71.01439,"1267 Main St, Brockton, MA 02301","1267 Main St, Brockton, Plymouth, MA, US",,MapQuest,address
+42.100933,-71.034962,"240 Oak St, Brockton, MA 02301","240 Oak St, Brockton, Plymouth, MA, US",,MapQuest,address
+42.512975,-71.202454,"242 Cambridge St., Burlington, MA 01803","242 Cambridge St, Burlington, Middlesex, MA, US",,MapQuest,address
+42.487604,-71.224968,"53 Third Avenue, Burlington, MA 01803","53 3rd Ave, Burlington, Middlesex, MA, US",,MapQuest,address
+42.389576,-71.142644,"215 Alewife Brook Parkway, Cambridge, MA 02138","215 Alewife Brook Pkwy, Cambridge, Middlesex, MA, US",,MapQuest,address
+42.371002,-71.079722,"225 Cambridge St, Cambridge, MA 02141","225 Cambridge St, Cambridge, Middlesex, MA, US",,MapQuest,address
+42.365282,-71.103512,"624 Massachusetts Ave., Cambridge, MA 02139","624 Massachusetts Ave, Cambridge, Middlesex, MA, US",,MapQuest,address
+42.388722,-71.118753,"36 White St, Cambridge, MA 02140","36 White St, Cambridge, Middlesex, MA, US",,MapQuest,address
+42.140539,-71.148599,"95 Washington Street, Canton, MA 02021","95 Washington St, Canton, Norfolk, MA, US",,MapQuest,address
+41.924318,-70.805861,"100 D N. Main St., Carver, MA 02330","100 N Main St, D, Carver, Plymouth, MA, US",,MapQuest,address
+42.405486,-71.02046,"1010 Revere Beach Pkwy, Chelsea, MA 02150","1010 Revere Beach Pkwy, Chelsea, Suffolk, MA, US",,MapQuest,address
+42.402636,-71.01896,"1010 Broadway, Chelsea, MA 02150","1010 Broadway, Chelsea, Suffolk, MA, US",,MapQuest,address
+42.319783,-71.176918,"200 Boylston St, Chestnut Hill, MA 02467","200 Boylston St, Chestnut Hill, Middlesex, MA, US",,MapQuest,address
+42.142164,-72.611439,"235 Center St, Chicopee, MA 01013","235 Center St, Chicopee, Hampden, MA, US",,MapQuest,address
+42.174379,-72.587252,"1176 Granby Rd, Chicopee, MA 01020","1176 Granby Rd, Chicopee, Hampden, MA, US",,MapQuest,address
+42.587014,-70.965853,"311 Newbury St, Danvers, MA 01923","311 Newbury St, Danvers, Essex, MA, US",,MapQuest,address
+42.59568,-70.96969,"50 Ferncroft Rd, Danvers, MA 01923","50 Ferncroft Rd, Danvers, Essex, MA, US",,MapQuest,address
+42.558991,-70.930496,"107 High St, Danvers, MA 01923","107 High St, Danvers, Essex, MA, US",,MapQuest,address
+41.640401,-70.998286,"456 State Rd, Dartmouth, MA 02747","456 State Rd, North Dartmouth, Bristol, MA, US",,MapQuest,address
+41.663461,-70.990961,"375 Faunce Corner Road, Dartmouth, MA 02747","375 Faunce Corner Rd, North Dartmouth, Bristol, MA, US",,MapQuest,address
+42.244095,-71.17037,"270 Bussey St, Della Park Plaza, Dedham, MA 02026","Dedham, Norfolk County, MA, US",,MapQuest,postcode
+42.490851,-72.609071,"1 Community Place, South Deerfield, MA 01373","1 Community Pl, South Deerfield, Franklin, MA, US",,MapQuest,address
+42.309004,-71.082809,"468 Blue Hill Ave, Dorchester, MA 02121","468 Blue Hill Ave, Dorchester, Suffolk, MA, US",,MapQuest,address
+42.295707,-71.072138,"451 Washington St, Dorchester, MA 02124","451 Washington St, Dorchester Center, Suffolk, MA, US",,MapQuest,address
+42.293782,-71.084144,"70 Talbot Ave, Dorchester, MA 02124","70 Talbot Ave, Dorchester Center, Suffolk, MA, US",,MapQuest,address
+42.284463,-71.04524,"757 Gallivan Blvd, Dorchester, MA 02122","757 Gallivan Blvd, Dorchester, Suffolk, MA, US",,MapQuest,address
+42.671088,-71.295851,"4 Broadway Road, Dracut, MA 01826","4 Broadway Rd, Dracut, Middlesex, MA, US",,MapQuest,address
+42.665254,-71.312261,"301 Pleasant Street, Dracut, MA 01826","301 Pleasant St, Dracut, Middlesex, MA, US",,MapQuest,address
+42.375265,-71.039761,"210 Border Street, East Boston, MA 02128","210 Border St, Boston, Suffolk, MA, US",,MapQuest,address
+42.384026,-70.999455,"1150 Saratoga Street, East Boston, MA 02128","1150 Saratoga St, Boston, Suffolk, MA, US",,MapQuest,address
+41.578469,-70.558087,"419 East Falmouth Hwy., East Falmouth, MA 02536","419 E Falmouth Hwy, East Falmouth, Barnstable, MA, US",,MapQuest,address
+41.617958,-70.53517,"1220 Nathan Ellis Hwy, East Falmouth, MA 02536","1220 Nathan Ellis Hwy, East Falmouth, Barnstable, MA, US",,MapQuest,address
+42.078652,-72.528088,"443 North Main St, East Longmeadow, MA 01028","443 N Main St, East Longmeadow, Hampden, MA, US",,MapQuest,address
+42.406147,-71.056354,"405 Broadway, Everett, MA 02149","405 Broadway, Everett, Middlesex, MA, US",,MapQuest,address
+41.641227,-70.879356,"220 Huttleston Ave, Fairhaven, MA 02719","220 Huttleston Ave, Fairhaven, Bristol, MA, US",,MapQuest,address
+41.723814,-71.121937,"777 Elsbree St, Fall River, MA 02720","777 Elsbree St, Fall River, Bristol, MA, US",,MapQuest,address
+41.698602,-71.146329,"550 Pleasant St., Fall River, MA 02720","550 Pleasant St, Fall River, Bristol, MA, US",,MapQuest,address
+41.712032,-71.127697,"1620 President Avenue, Fall River, MA 02720","1620 President Ave, Fall River, Bristol, MA, US",,MapQuest,address
+41.674203,-71.161677,"245 William S. Canning Blvd, Fall River, MA 02721","245 William S Canning Blvd, Fall River, Bristol, MA, US",,MapQuest,address
+41.679536,-71.167691,"20 Star Street, Fall River, MA 02724","20 Star St, Fall River, Bristol, MA, US",,MapQuest,address
+41.694398,-71.151273,"501 Rodman Street, Fall River, MA 02721","501 Rodman St, Fall River, Bristol, MA, US",,MapQuest,address
+41.695706,-71.15185,"369 Plymouth Ave., Fall River, MA 02721","369 Plymouth Ave, Fall River, Bristol, MA, US",,MapQuest,address
+41.560553,-70.599338,"105 Davis Straits, Falmouth, MA 02540","105 Davis Straits, Falmouth, Barnstable, MA, US",,MapQuest,address
+42.067303,-72.674719,"1282 Springfield Street, Feeding Hills, MA 01030","1282 Springfield St, Feeding Hills, Hampden, MA, US",,MapQuest,address
+42.581795,-71.793991,"161 Main St, Fitchburg, MA 01420","161 Main St, Fitchburg, Worcester, MA, US",,MapQuest,address
+42.579854,-71.809066,"57 Rollstone Rd, Park Hill Plaza, Fitchburg, MA 01420","Fitchburg, Worcester County, MA, US",,MapQuest,postcode
+42.09381,-71.2658,"1 Patriot Place, Parking Lot 22, Foxborough, MA 02035","1 Patriot Place, Foxborough, MA, US",,MapQuest,address
+42.563693,-72.020667,"171 Kendall Pond Rd W, Gardner, MA 01440","171 Kendall Pond Rd W, Gardner, Worcester, MA, US",,MapQuest,address
+42.568197,-71.985081,"560 Main St, Gardner, MA 01440","560 Main St, Gardner, Worcester, MA, US",,MapQuest,address
+42.57136,-71.994132,"232 Main St, Gardner, MA 01440","232 Main St, Gardner, Worcester, MA, US",,MapQuest,address
+42.21089,-73.345512,"300 Stockbridge Rd, Great Barrington, MA 01230","300 Stockbridge Rd, Great Barrington, Berkshire, MA, US",,MapQuest,address
+42.24571,-73.329613,"313 Monument Valley Rd, Great Barrington, MA 01230","313 Monument Valley Rd, Great Barrington, Berkshire, MA, US",,MapQuest,address
+42.595606,-72.591287,"164 High St, Greenfield, MA 01301","164 High St, Greenfield, Franklin, MA, US",,MapQuest,address
+42.58616,-72.626179,"237 Mohawk Trail Route 2, Greenfield, MA 01301","237 Mohawk Trl, 2, Greenfield, Franklin, MA, US",,MapQuest,address
+42.592371,-72.59825,"137 Federal Street, Greenfield, MA 01301","137 Federal St, Greenfield, Franklin, MA, US",,MapQuest,address
+42.591424,-72.601365,"35 Pleasant St, Greenfield, MA 01301","35 Pleasant St, Greenfield, Franklin, MA, US",,MapQuest,address
+42.106905,-70.845644,"341 Plymouth Road, Halifax, MA 02388","[135 - 199] Plymouth Rd, Hanover, Plymouth, MA, US",,MapQuest,street
+42.114337,-70.820159,"207 Rockland St., Hanover, MA 02339","207 Rockland St, Hanover, Plymouth, MA, US",,MapQuest,address
+41.684716,-70.057809,"111 Chatam Rd, Harwich, MA 02645","111 Chatham Rd, Harwich, Barnstable, MA, US",,MapQuest,address
+42.778266,-71.090444,"150 Lafayette Square, Haverhill, MA 01832","150 Lafayette Sq, Haverhill, Essex, MA, US",,MapQuest,address
+42.780615,-71.07739,"259 Main St., Haverhill, MA 01830","259 Main St, Haverhill, Essex, MA, US",,MapQuest,address
+42.771286,-71.075648,"68 South Main St, Haverhill, MA 01835","68 S Main St, Haverhill, Essex, MA, US",,MapQuest,address
+42.127704,-71.009278,"842 South Franklin Street, Holbrook, MA 02343","842 S Franklin St, Holbrook, Norfolk, MA, US",,MapQuest,address
+42.349817,-71.859981,"1145 Main St, Holden, MA 01520","1145 Main St, Holden, Worcester, MA, US",,MapQuest,address
+42.168685,-72.646451,"361 Whitney Avenue, Holyoke, MA 01040","361 Whitney Ave, Holyoke, Hampden, MA, US",,MapQuest,address
+42.175067,-72.640313,"250 Whiting Farms Rd., Holyoke, MA 01040","250 Whiting Farms Rd, Holyoke, Hampden, MA, US",,MapQuest,address
+42.379516,-71.566182,"234 Washington St, Hudson, MA 01749","234 Washington St, Hudson, Middlesex, MA, US",,MapQuest,address
+41.66413,-70.286963,"411 Barnstable Rd, Hyannis, MA 02601","411 Barnstable Rd, Hyannis, Barnstable, MA, US",,MapQuest,address
+41.647585,-70.297734,"21 W Main St, Hyannis, MA 02601","21 W Main St, Hyannis, Barnstable, MA, US",,MapQuest,address
+41.676981,-70.307572,"425 Attucks Lane, Hyannis, MA 02601","425 Attucks Ln, Hyannis, Barnstable, MA, US",,MapQuest,address
+41.650858,-70.314752,"520 W. Main St, Hyannis, MA 02601","520 W Main St, Hyannis, Barnstable, MA, US",,MapQuest,address
+42.267578,-71.12093,"942A Hyde Park Avenue, Hyde Park, MA 02136","942A Hyde Park Ave, Hyde Park, Suffolk, MA, US",,MapQuest,address
+42.257073,-71.120089,"1137 River St, Hyde Park, MA 02136","1137 River St, Hyde Park, Suffolk, MA, US",,MapQuest,address
+42.683764,-70.84353,"114 Central St, Ipswich, MA 01938","114 Central St, Ipswich, Essex, MA, US",,MapQuest,address
+42.012419,-70.732633,"182 Summer Street, Kingston, MA 02364","182 Summer St, Kingston, Plymouth, MA, US",,MapQuest,address
+41.981832,-70.731183,"431 Country Club Way, Kingston, MA 02364","431 Country Club Way, Kingston, Plymouth, MA, US",,MapQuest,address
+42.694535,-71.146527,"165 Crawford Street, Lawrence, MA 01843","165 Crawford St, Lawrence, Essex, MA, US",,MapQuest,address
+42.304358,-73.247227,"25 Park St, Lee, MA 01238","25 Park St, Lee, Berkshire, MA, US",,MapQuest,address
+42.518884,-71.758409,"188 Central St, Leominster, MA 01453","188 Central St, Leominster, Worcester, MA, US",,MapQuest,address
+42.542485,-71.761121,"9 Nelson St, Leominster, MA 01453","9 Nelson St, Leominster, Worcester, MA, US",,MapQuest,address
+42.525586,-71.753444,"927 Merriam Avenue, Twin City Plaza, Leominster, MA 01453","Leominster, Worcester County, MA, US",,MapQuest,postcode
+42.541193,-71.763033,"60 Hospital Road, Leominster, MA 01453","60 Hospital Rd, Leominster, Worcester, MA, US",,MapQuest,address
+42.055686,-72.554736,"802 Williams Street, Longmeadow, MA 01106","802 Williams St, Longmeadow, Hampden, MA, US",,MapQuest,address
+42.641609,-71.374108,"1001 Pawtucket Blvd, Lowell, MA 01854","1001 Pawtucket Blvd, Lowell, Middlesex, MA, US",,MapQuest,address
+42.649568,-71.304038,"336 Bridge St., Lowell, MA 01850","336 Bridge St, Lowell, Middlesex, MA, US",,MapQuest,address
+42.575545,-71.748218,"454 Electric Ave, Lunenburg, MA 01462","454 Electric Ave, Lunenburg, Worcester, MA, US",,MapQuest,address
+42.476868,-70.95729,"65 Boston St, Lynn, MA 01904","65 Boston St, Lynn, Essex, MA, US",,MapQuest,address
+42.462413,-70.962948,"200 South Common St., Lynn, MA 01905","200 S Common St, Lynn, Essex, MA, US",,MapQuest,address
+42.460469,-70.954896,"80 Neptune Blvd., Lynn, MA 01902","80 Neptune Blvd, Lynn, Essex, MA, US",,MapQuest,address
+42.470332,-70.957735,"35 Washington Street, Lynn, MA 01904","35 Washington St, Lynn, Essex, MA, US",,MapQuest,address
+42.4405,-71.03176,"575 Broadway, Malden, MA 02148","575 Broadway, Malden, Middlesex, MA, US",,MapQuest,address
+42.430424,-71.038893,"1080 Eastern Ave., Malden, MA 02148","1080 Eastern Ave, Malden, Middlesex, MA, US",,MapQuest,address
+42.342743,-71.578399,"75 Felton Street, Marlborough, MA 01752","75 Felton St, Marlborough, Middlesex, MA, US",,MapQuest,address
+42.351201,-71.534409,"264 East Main Street, Marlborough, MA 01752","264 E Main St, Marlborough, Middlesex, MA, US",,MapQuest,address
+42.098938,-70.718031,"140 Main St, Marshfield, MA 02050","140 Main St, Marshfield, Plymouth, MA, US",,MapQuest,address
+41.461394,-70.581962,"1 Hospital Rd, Oak Bluffs, MA 02557","1 Hospital Rd, Vineyard Haven, Dukes, MA, US",,MapQuest,address
+41.612804,-70.489057,"21 South St., Mashpee, MA 02649","21 South St, Mashpee, Barnstable, MA, US",,MapQuest,address
+42.269989,-71.093791,"1575 Blue Hill Ave, Mattapan, MA 02126","1575 Blue Hill Ave, Mattapan, Suffolk, MA, US",,MapQuest,address
+42.281708,-71.092383,"1257 Blue Hill Ave, Mattapan, MA 02126","1257 Blue Hill Ave, Mattapan, Suffolk, MA, US",,MapQuest,address
+42.27129,-71.074323,"90 River St, Mattapan, MA 02126","90 River St, Mattapan, Suffolk, MA, US",,MapQuest,address
+42.431932,-71.454381,"105 Main St., Maynard, MA 01754","105 Main St, Maynard, Middlesex, MA, US",,MapQuest,address
+42.185596,-71.308766,"555 Main Street, Medfield, MA 02052","555 Main St, Medfield, Norfolk, MA, US",,MapQuest,address
+42.405575,-71.082401,"590 Fellsway, Medford, MA 02155","590 Fellsway, Medford, Middlesex, MA, US",,MapQuest,address
+42.418863,-71.112351,"85 High Street, Medford, MA 02155","85 High St, Medford, Middlesex, MA, US",,MapQuest,address
+42.724622,-71.184327,"233 Broadway, Methuen, MA 01844","233 Broadway, Methuen, Essex, MA, US",,MapQuest,address
+42.722963,-71.157572,"76 Swan St, Methuen, MA 01844","76 Swan St, Methuen, Essex, MA, US",,MapQuest,address
+41.883494,-70.912763,"8 Merchants Way, Middleborough, MA 01569","8 Merchants Way, Middleborough, Plymouth, MA, US",,MapQuest,address
+42.14957,-71.50012,"50 Medway Rd., Milford, MA 01757","50 Medway Rd, Milford, Worcester, MA, US",,MapQuest,address
+41.260865,-70.048441,"22 New South Road, Nantucket, MA 02554","22 New South Rd, Nantucket, Nantucket, MA, US",,MapQuest,address
+42.282641,-71.374991,"137 West Central Street, Natick, MA 01760","137 W Central St, Natick, Middlesex, MA, US",,MapQuest,address
+42.299136,-71.387174,"1235 Worcester St, Natick, MA 01760","1235 Worcester St, Natick, Middlesex, MA, US",,MapQuest,address
+42.303975,-71.217091,"100 2nd Avenue, Needham, MA 02494","100 2nd Ave, Needham Heights, Norfolk, MA, US",,MapQuest,address
+41.657918,-70.929386,"136 Ashley Blvd., New Bedford, MA 02746","136 Ashley Blvd, New Bedford, Bristol, MA, US",,MapQuest,address
+41.681437,-70.933884,"786 Ashley Blvd., New Bedford, MA 02745","786 Ashley Blvd, New Bedford, Bristol, MA, US",,MapQuest,address
+42.819678,-70.909876,"75 Storey Ave., Newburyport, MA 01950","75 Storey Ave, Newburyport, Essex, MA, US",,MapQuest,address
+42.318936,-71.211539,"978 Boylston St., Newton, MA 02461","978 Boylston St, Newton Highlands, Middlesex, MA, US",,MapQuest,address
+42.299048,-71.186701,"777 Dedham St, Newton, MA 02459","777 Dedham St, Newton Center, Middlesex, MA, US",,MapQuest,address
+42.701348,-73.113651,"70 Marshall St., North Adams, MA 01247","70 Marshall St, North Adams, Berkshire, MA, US",,MapQuest,address
+42.700324,-73.16561,"876 State Road. Rte 2, North Adams, MA 01247","876 State Rd, 2, North Adams, Berkshire, MA, US",,MapQuest,address
+42.08886,-71.093081,"2 Roche Brothers Way, North Easton, MA 02356","2 Roche Brothers Way, North Easton, Bristol, MA, US",,MapQuest,address
+42.219612,-71.698036,"100 Worcester St, North Grafton, MA 01536","100 Worcester St, North Grafton, Worcester, MA, US",,MapQuest,address
+42.341608,-72.640877,"136 N King St Route 5, Northampton, MA 01060","136 N King St, 5, Northampton, Hampshire, MA, US",,MapQuest,address
+42.314022,-72.62833,"67 Conz Street, Northampton, MA 01060","67 Conz St, Northampton, Hampshire, MA, US",,MapQuest,address
+42.292378,-71.672807,"9102 Shops Way, Northborough, MA 01532","9102 Shops Way, Northborough, Worcester, MA, US",,MapQuest,address
+41.774397,-69.995135,"40 Giddiah Hill Rd, Orleans, MA 02653","40 Giddiah Hill Rd, Orleans, Barnstable, MA, US",,MapQuest,address
+41.7964,-69.98321,"Route 3 6A Cranberry Cove Plaza, Orleans, MA 02653","6 Old State Highway, Orleans, MA, US",,MapQuest,address
+42.157735,-72.329725,"1001 Thorndike St., Palmer, MA 01069","1001 Thorndike St, Palmer, Hampden, MA, US",,MapQuest,address
+42.522964,-70.920205,"174 Main St., Peabody, MA 01960","174 Main St, Peabody, Essex, MA, US",,MapQuest,address
+42.524599,-70.953187,"10 Centennial Drive, Peabody, MA 01960","10 Centennial Dr, Peabody, Essex, MA, US",,MapQuest,address
+42.437876,-73.25682,"369 South St, Pittsfield, MA 01201","369 South St, Pittsfield, Berkshire, MA, US",,MapQuest,address
+42.457957,-73.317024,"1350 West St., Pittsfield, MA 01201","1350 West St, Pittsfield, Berkshire, MA, US",,MapQuest,address
+42.449403,-73.260013,"200 West Street, Pittsfield, MA 01201","200 West St, Pittsfield, Berkshire, MA, US",,MapQuest,address
+42.468996,-73.196484,"555 Hubbard Ave, Pittsfield, MA 01201","555 Hubbard Ave, Pittsfield, Berkshire, MA, US",,MapQuest,address
+42.412522,-73.27055,"Dan Fox Drive, Pittsfield, MA 01201","[1 - 199] Dan Fox Dr, Pittsfield, Berkshire, MA, US",,MapQuest,street
+42.469547,-73.203775,"37 Cheshire Road, Pittsfield, MA 01201","37 Cheshire Rd, Pittsfield, Berkshire, MA, US",,MapQuest,address
+42.252344,-70.988348,"626 Southern Artery, Rte 3A, Quincy, MA 02169","626 Southern Artery, 3a, Quincy, Norfolk, MA, US",,MapQuest,address
+42.16524,-71.043067,"171 North Main Street, Randolph, MA 02368","171 N Main St, Randolph, Norfolk, MA, US",,MapQuest,address
+42.169007,-71.039193,"128 Pleasant St, Randolph, MA 02368","128 Pleasant St, Randolph, Norfolk, MA, US",,MapQuest,address
+42.426202,-71.012641,"339 Squire Road, Revere, MA 02151","339 Squire Rd, Revere, Suffolk, MA, US",,MapQuest,address
+42.410776,-71.01188,"430 Broadway, Revere, MA 02151","430 Broadway, Revere, Suffolk, MA, US",,MapQuest,address
+42.286388,-71.130113,"17 Corinth Street, Roslindale, MA 02131","17 Corinth St, Roslindale, Suffolk, MA, US",,MapQuest,address
+42.317473,-71.098236,"1890 Columbus Ave, Roxbury, MA 02119","1890 Columbus Ave, Roxbury, Suffolk, MA, US",,MapQuest,address
+42.316948,-71.082531,"416 Warren St, Roxbury, MA 02119","416 Warren St, Roxbury, Suffolk, MA, US",,MapQuest,address
+42.375558,-71.956993,"280 Main Street, Rutland, MA 01543","280 Main St, Rutland, Worcester, MA, US",,MapQuest,address
+42.500822,-70.895976,"300 Canal Street, Salem, MA 01970","300 Canal St, Salem, Essex, MA, US",,MapQuest,address
+42.490189,-71.018488,"166 Walnut St, Saugus, MA 01906","166 Walnut St, Saugus, Essex, MA, US",,MapQuest,address
+41.887938,-71.333124,"1479 Newman Ave., Seekonk, MA 02771","1479 Newman Ave, Seekonk, Bristol, MA, US",,MapQuest,address
+42.615075,-72.754459,"26 Ashfield Rd, Shelburne Falls, MA 01370","26 Ashfield Rd, Shelburne Falls, Franklin, MA, US",,MapQuest,address
+42.277293,-71.697686,"731 Boston Turnpike, Shrewsbury, MA 01545","731 Boston Tpke, Shrewsbury, Worcester, MA, US",,MapQuest,address
+41.747333,-71.145665,"296 Buffinton St., Somerset, MA 02726","296 Buffinton St, Somerset, Bristol, MA, US",,MapQuest,address
+42.222729,-72.572097,"44 Willimansett Street, South Hadley, MA 01075","44 Willimansett St, South Hadley, Hampshire, MA, US",,MapQuest,address
+41.685579,-70.208693,"465 Station Avenue, South Yarmouth, MA 02664","465 Station Ave, South Yarmouth, Barnstable, MA, US",,MapQuest,address
+42.076626,-72.035806,"399 Main St, Southbridge, MA 01550","399 Main St, Southbridge, Worcester, MA, US",,MapQuest,address
+42.068286,-72.028375,"153 Chestnut St, Southbridge, MA 01550","153 Chestnut St, Southbridge, Worcester, MA, US",,MapQuest,address
+42.232918,-72.013895,"62 W Main Street, Spencer, MA 01562","62 W Main St, Spencer, Worcester, MA, US",,MapQuest,address
+42.095249,-72.498365,"300 Cooley Street, Springfield, MA 01128","300 Cooley St, Springfield, Hampden, MA, US",,MapQuest,address
+42.136887,-72.518694,"770 Boston Rd, Springfield, MA 01119","770 Boston Rd, Springfield, Hampden, MA, US",,MapQuest,address
+42.115006,-72.498586,"1242 Parker St, Springfield, MA 01119","1242 Parker St, Springfield, Hampden, MA, US",,MapQuest,address
+42.135061,-72.568234,"970 St. James Ave, Springfield, MA 01104","970 Saint James Ave, Springfield, Hampden, MA, US",,MapQuest,address
+42.109662,-72.572743,"600 State St, Springfield, MA 01109","600 State St, Springfield, Hampden, MA, US",,MapQuest,address
+42.14326,-72.488149,"1655 Boston Rd, Springfield, MA 01129","1655 Boston Rd, Springfield, Hampden, MA, US",,MapQuest,address
+42.115878,-72.595442,"271 Carew Street, Springfield, MA 01104","271 Carew St, Springfield, Hampden, MA, US",,MapQuest,address
+42.135359,-71.102551,"1025 Central Street, Stoughton, MA 02072","1025 Central St, Stoughton, Norfolk, MA, US",,MapQuest,address
+42.112163,-72.088605,"362 Main St, Sturbridge, MA 01566","362 Main St, Sturbridge, Worcester, MA, US",,MapQuest,address
+42.16168,-71.73366,"21 Galaxy Pass, Sutton, MA 01590","21 Galaxy Pass, Sutton, Worcester County, MA, US",,MapQuest,address
+42.481299,-70.902983,"450 Paradise Rd, Swampscott, MA 01907","450 Paradise Rd, Swampscott, Essex, MA, US",,MapQuest,address
+41.884362,-71.066651,"675 County Street, Taunton, MA 02780","675 County St, Taunton, Bristol, MA, US",,MapQuest,address
+41.886311,-71.119986,"255 Joseph E. Warner Blvd., Taunton, MA 02780","255 Joseph E Warner Blvd, Taunton, Bristol, MA, US",,MapQuest,address
+42.59752,-72.524522,"82 Industrial Blvd, Turners Falls, MA 01376","82 Industrial Blvd, Turners Falls, Franklin, MA, US",,MapQuest,address
+42.082483,-71.638128,"158 No. Main St., Uxbridge, MA 01569","158 N Main St, Uxbridge, Worcester, MA, US",,MapQuest,address
+42.081596,-71.62711,"62 Capron St, Uxbridge, MA 01569","62 Capron St, Uxbridge, Worcester, MA, US",,MapQuest,address
+42.138946,-71.219629,"999 Providence Highway, Walpole, MA 02081","999 Providence Hwy, Walpole, Norfolk, MA, US",,MapQuest,address
+42.376046,-71.243815,"12 Harvard St., Waltham, MA 02453","12 Harvard St, Waltham, Middlesex, MA, US",,MapQuest,address
+42.402602,-71.234072,"800 Lexington St, Waltham, MA 02452","800 Lexington St, Waltham, Middlesex, MA, US",,MapQuest,address
+42.375389,-71.24475,"55 Russell St., Waltham, MA 02453","55 Russell St, Waltham, Middlesex, MA, US",,MapQuest,address
+41.773087,-70.712574,"33 Charge Pond Road, Wareham, MA 02571","33 Charge Pond Rd, Wareham, Plymouth, MA, US",,MapQuest,address
+42.365865,-71.185309,"27-43 Main St, Watertown, MA 02472","27 Main St, #43, Watertown, Middlesex, MA, US",,MapQuest,address
+42.371912,-71.15705,"655 Mount Auburn Street, Watertown, MA 02472","655 Mount Auburn St, Watertown, Middlesex, MA, US",,MapQuest,address
+42.361983,-71.193991,"189 Watertown Street, Watertown, MA 02472","189 Watertown St, Watertown, Middlesex, MA, US",,MapQuest,address
+42.321942,-71.364465,"150 Main St., Wayland, MA 01778","150 Main St, Wayland, Middlesex, MA, US",,MapQuest,address
+42.058821,-71.866543,"112 E. Main St., Webster, MA 01570","112 E Main St, Webster, Worcester, MA, US",,MapQuest,address
+42.06287,-71.86736,"East Village Square, 2 Worcester Rd, Webster, MA 01570","2 Worcester Road, Webster, MA, US",,MapQuest,address
+41.690684,-70.340192,"2240 Iyannough Rd, West Barnstable, MA 02668","2240 Iyannough Rd, West Barnstable, Barnstable, MA, US",,MapQuest,address
+42.018968,-71.00816,"2 W. Center St., West Bridgewater, MA 02379","2 W Center St, West Bridgewater, Plymouth, MA, US",,MapQuest,address
+42.107263,-72.622794,"152 Elm St, West Springfield, MA 01089","152 Elm St, West Springfield, Hampden, MA, US",,MapQuest,address
+42.12874,-72.62659,"935 Riverdale Street, W. Springfield, MA 01089","935 Riverdale St, West Springfield, Hampden, MA, US",,MapQuest,address
+42.113538,-72.724635,"427 East Main St, Westfield, MA 01085","427 E Main St, Westfield, Hampden, MA, US",,MapQuest,address
+41.660335,-71.083448,"599 State Rd, Westport, MA 02790","599 State Rd, Westport, Bristol, MA, US",,MapQuest,address
+42.206111,-71.152501,"169 University Avenue, Westwood, MA 02090","169 University Ave, Westwood, Norfolk, MA, US",,MapQuest,address
+42.245752,-70.93587,"737 Bridge Street, Weymouth, MA 02191","737 Bridge St, North Weymouth, Norfolk, MA, US",,MapQuest,address
+42.501658,-71.158858,"2 Elm Street, Woburn, MA 01801","2 Elm St, Woburn, Middlesex, MA, US",,MapQuest,address
+42.266683,-71.017739,"42 Beale St, Wollaston, MA 02170","42 Beale St, Quincy, Norfolk, MA, US",,MapQuest,address
+42.258715,-71.824501,"100 Mayfield Street, Worcester, MA 01602","100 Mayfield St, Worcester, Worcester, MA, US",,MapQuest,address
+42.294486,-71.758883,"425 Lake Avenue North, Suite 201, Worcester, MA 01605","425 Lake Ave N, SUITE 201, Worcester, Worcester, MA, US",,MapQuest,address
+42.261925,-71.798156,"110 Front St., Suite #102, Worcester, MA 01608","110 Front St, SUITE #102, Worcester, Worcester, MA, US",,MapQuest,address
+42.250882,-71.779763,"500 Grafton St, Worcester, MA 01604","500 Grafton St, Worcester, Worcester, MA, US",,MapQuest,address
+42.29339,-71.777519,"481 Lincoln Street, Worcester, MA 01605","481 Lincoln St, Worcester, Worcester, MA, US",,MapQuest,address
+42.257449,-71.822876,"400 Park Ave., Worcester, MA 01610","400 Park Ave, Worcester, Worcester, MA, US",,MapQuest,address
+42.238798,-71.844789,"115 Stafford St, Worcester, MA 01603","115 Stafford St, Worcester, Worcester, MA, US",,MapQuest,address
+42.289789,-71.806746,"44 W. Boylston St, Worcester, MA 01605","44 W Boylston St, Worcester, Worcester, MA, US",,MapQuest,address
+42.244188,-71.829417,"50 Cambridge Street, Worcester, MA 01610","50 Cambridge St, Worcester, Worcester, MA, US",,MapQuest,address
+42.323894,-71.798005,"72 Pullman Road, Worcester, MA 01606","72 Pullman St, Worcester, Worcester, MA, US",,MapQuest,address
+42.26832,-71.840984,"486 Chandler Street, Worcester, MA 01602","486 Chandler St, Worcester, Worcester, MA, US",,MapQuest,address
+42.262375,-71.79956,"100 Front St, Worcester, MA 01608","100 Front St, Worcester, Worcester, MA, US",,MapQuest,address
