@@ -1,0 +1,9 @@
+type	latitude	longitude	name	address	city	state	postcode	country
+W	42.062019000	-72.631815000	163 Silver Street, Agawam, MA, 01001	163 Silver Street	Agawam	MA	01001	us
+W	42.853644000	-70.943735000	5 Highland St, Amesbury, MA, 01913	5 Highland St	Amesbury	MA	01913	us
+W	42.846321000	-70.908211000	100 Macy Street, Amesbury, MA, 01913	100 Macy Street	Amesbury	MA	01913	us
+W	42.376886000	-72.518769000	70 Boltwood Walk, Amherst, MA, 01002	70 Boltwood Walk	Amherst	MA	01002	us
+W	42.374870000	-72.532655000	165 University Drive, Amherst, MA, 01002	165 University Drive	Amherst	MA	01002	us
+W	42.416788000	-71.160409000	833 Massachusetts Avenue, Arlington, MA, 02476	833 Massachusetts Avenue	Arlington	MA	02476	us
+W	42.256634000	-71.426492000	47 Pond St, Ashland, MA, 01721	47 Pond St	Ashland	MA	01721	us
+W	41.949499000	-71.289781000	191 N. Main St., Attleboro, MA, 02703	191 N. Main St.	Attleboro	MA	02703	us
