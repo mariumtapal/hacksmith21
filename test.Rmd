@@ -1,0 +1,22 @@
+---
+title: "test"
+author: "Marium Tapal"
+date: "3/26/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(leaflet)
+library(readxl)
+library(janitor)
+data <- read_xlsx("data.xlsx", skip = 1) %>% clean_names()
+```
+
+```{r}
+
+```
+
