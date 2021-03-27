@@ -6,3 +6,5 @@
 Our project: We decided to focus on something current, and decided to
 make a website that informs people in the United States about the latest
 updates related to the Covid19 vaccine roll-out in their state.
+
+Link to project: https://marium.shinyapps.io/hacksmith21/
