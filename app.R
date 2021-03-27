@@ -7,6 +7,7 @@ library(janitor)
 library(tidyverse)
 library(readtext)
 library(reactable)
+library(plotly)
 
 data <- read_xlsx("data.xlsx", skip = 1) %>% clean_names()
 map <- read_csv("mapDataFR.txt")
@@ -43,14 +44,27 @@ newdata <- vaccines_rem2 %>% group_by(`Race/Ethnicity`) %>%
   filter(Proportion != Inf)
 
 
+
 ui <- fluidPage(
   titlePanel("Massachusetts COVID-19 Vaccine Dashboard"),
-  reactableOutput("table"),
-  plotlyOutput("plot"),
-  titlePanel("Vaccination Locations"),
-  leafletOutput("mymap"),
-  p()
+  p("This dashboard was designed to help users locate vaccine locations in Massachusetts", style = "font-family: 'times'; font-si16pt"),
+  mainPanel(
+    titlePanel("Proportion of people vaccinated in MA by age"),
+    reactableOutput("table"),
+    titlePanel("Vaccination Locations"),
+    leafletOutput("mymap"),
+    p()
+  ),
+  sidebarPanel(
+    titlePanel("Population in MA vaccinated"),
+    plotlyOutput("plot"),
+    p()
+    
+  )
+  
 )
+
+
 # reactable
 server <- function(input, output) {
   output$table <- renderReactable({
