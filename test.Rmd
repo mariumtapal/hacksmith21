@@ -13,10 +13,10 @@ knitr::opts_chunk$set(echo = TRUE)
 library(leaflet)
 library(readxl)
 library(janitor)
+library(tidyverse)
+library(readtext)
+
 data <- read_xlsx("data.xlsx", skip = 1) %>% clean_names()
-```
-
-```{r}
-
+map<-read_csv("mapDataFR.txt") 
 ```
 
