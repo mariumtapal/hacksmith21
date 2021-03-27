@@ -27,9 +27,26 @@ vaccines_am2$`Proportion of town fully vaccinated individuals` <- round(vaccines
 vaccines_am2 <- vaccines_am2[, c(2, 1, 3, 4, 5, 6)]
 
 
+# vaccine by race/ethnicity
+vaccines_rem2 <- vaccines_rem %>%
+  filter(`Race/Ethnicity` != "Total") %>%
+  filter(`Fully vaccinated individuals` != "*" | `Proportion of town fully vaccinated individuals` != "*") %>%
+  mutate(
+    `Fully vaccinated individuals` = as.numeric(`Fully vaccinated individuals`),
+    `Proportion of town population` = as.numeric(`Proportion of town population`),
+    `Proportion of town fully vaccinated individuals` = as.numeric(`Proportion of town fully vaccinated individuals`)
+  ) %>%
+  select(c(`Race/Ethnicity`, Population, `Fully vaccinated individuals`))
+newdata <- vaccines_rem2 %>% group_by(`Race/Ethnicity`) %>% 
+  summarise(across(everything(), sum)) %>% 
+  mutate(Proportion = `Fully vaccinated individuals`/Population) %>% 
+  filter(Proportion != Inf)
+
+
 ui <- fluidPage(
   titlePanel("Massachusetts COVID-19 Vaccine Dashboard"),
   reactableOutput("table"),
+  plotlyOutput("plot"),
   titlePanel("Vaccination Locations"),
   leafletOutput("mymap"),
   p()
@@ -45,6 +62,11 @@ server <- function(input, output) {
       style = list(fontFamily = "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"),
       searchInputStyle = list(width = "100%")
     ))
+  })
+  
+  output$plot <- renderPlotly({
+    ggplotly(ggplot(newdata, 
+                    aes(x = `Race/Ethnicity`, y = Proportion, fill = `Race/Ethnicity`)) + geom_col())
   })
   
   # map
