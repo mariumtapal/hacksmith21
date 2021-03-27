@@ -1,10 +1,37 @@
 library(shiny)
 library(reactable)
 library(leaflet)
+library(leaflet)
+library(readxl)
+library(janitor)
+library(tidyverse)
+library(readtext)
+library(reactable)
+
+data <- read_xlsx("data.xlsx", skip = 1) %>% clean_names()
+map <- read_csv("mapDataFR.txt")
+vaccines_am <- read_xlsx("covid19report.xlsx", sheet = "Age - municipality", skip = 1)
+vaccines_rem <- read_xlsx("covid19report.xlsx", sheet = "Race and ethnicity - muni.", skip = 1)
+
+vaccines_am2 <- vaccines_am %>%
+  filter(`Age Group` != "Total") %>%
+  filter(`Fully vaccinated individuals` != "*" | `Proportion of town fully vaccinated individuals` != "*") %>%
+  filter(County != "Unspecified") %>%
+  mutate(
+    `Fully vaccinated individuals` = as.numeric(`Fully vaccinated individuals`),
+    `Proportion of town fully vaccinated individuals` = as.numeric(`Proportion of town fully vaccinated individuals`)
+  ) %>%
+  select(c(County, Town, `Age Group`, Population, `Fully vaccinated individuals`, `Proportion of town fully vaccinated individuals`))
+vaccines_am2$Population <- round(vaccines_am2$Population, 0)
+vaccines_am2$`Proportion of town fully vaccinated individuals` <- round(vaccines_am2$`Proportion of town fully vaccinated individuals`, 3)
+vaccines_am2 <- vaccines_am2[, c(2, 1, 3, 4, 5, 6)]
+
 
 ui <- fluidPage(
   titlePanel("Massachusetts COVID-19 Vaccine Dashboard"),
-  reactableOutput("table"),leafletOutput("mymap"),
+  reactableOutput("table"),
+  titlePanel("Vaccination Locations"),
+  leafletOutput("mymap"),
   p()
 )
 # reactable
@@ -20,7 +47,7 @@ server <- function(input, output) {
     ))
   })
   
-# map
+  # map
   
   output$mymap <- renderLeaflet({
     map %>%
