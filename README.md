@@ -11,15 +11,16 @@ Link to project: https://marium.shinyapps.io/hacksmith21/
 
 
 What we achieved:
-
+- 
 
 
 
 If we had more time, we would have worked on:
-
+- Complete the chatbot
+- Improve the dashboard and improve color
 
 
 
 Data Sources:
 - https://www.mass.gov/doc/covid-19-vaccine-locations-for-currently-eligible-recipients-pdf/download
-- 
+- https://www.mass.gov/doc/weekly-covid-19-public-health-report-march-25-2021/download
