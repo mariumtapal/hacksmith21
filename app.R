@@ -1,10 +1,13 @@
 library(shiny)
 library(reactable)
+library(leaflet)
 
 ui <- fluidPage(
-  reactableOutput("table")
+  titlePanel("Massachusetts COVID-19 Vaccine Dashboard"),
+  reactableOutput("table"),leafletOutput("mymap"),
+  p()
 )
-
+# reactable
 server <- function(input, output) {
   output$table <- renderReactable({
     reactable(vaccines_am2, searchable = TRUE, filterable = TRUE, theme = reactableTheme(
@@ -15,6 +18,21 @@ server <- function(input, output) {
       style = list(fontFamily = "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"),
       searchInputStyle = list(width = "100%")
     ))
+  })
+  
+# map
+  
+  output$mymap <- renderLeaflet({
+    map %>%
+      leaflet() %>%
+      addTiles() %>%
+      addTiles(group = "Open Street Maps") %>%
+      addCircleMarkers(
+        data = map, radius = 5,
+        color = "purple",
+        popup = map$name
+      ) %>%
+      setView(lng = -71.47275, lat = 42.24943, zoom = 7)
   })
 }
 

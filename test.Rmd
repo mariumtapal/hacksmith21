@@ -26,6 +26,7 @@ vaccines_rem <- read_xlsx("covid19report.xlsx", sheet = "Race and ethnicity - mu
 
 
 ```{r}
+# vaccines by age
 vaccines_am2 <- vaccines_am %>%
   filter(`Age Group` != "Total") %>%
   filter(`Fully vaccinated individuals` != "*" | `Proportion of town fully vaccinated individuals` != "*") %>%
@@ -46,6 +47,12 @@ reactable(vaccines_am2, searchable = TRUE, filterable = TRUE, theme = reactableT
   style = list(fontFamily = "-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"),
   searchInputStyle = list(width = "100%")
 ))
+```
+
+
+
+```{r}
+# vaccine by race/ethnicity
 ```
 
 
