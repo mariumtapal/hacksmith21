@@ -85,7 +85,8 @@ server <- function(input, output) {
   
   output$plot <- renderPlotly({
     ggplotly(ggplot(newdata, 
-                    aes(x = `Race/Ethnicity`, y = Proportion, fill = `Race/Ethnicity`)) + geom_col())
+                    aes(x = `Race/Ethnicity`, y = Proportion, fill = `Race/Ethnicity`)) + geom_col() +
+               theme(axis.text.x = element_text(angle = 90, hjust = 1)))
   })
   
   # map
