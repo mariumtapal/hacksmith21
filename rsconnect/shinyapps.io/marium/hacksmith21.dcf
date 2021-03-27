@@ -5,8 +5,6 @@ account: marium
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3871381
-bundleId: 4400366
+bundleId: 4400433
 url: https://marium.shinyapps.io/hacksmith21/
-when: 1616816726.90577
-asMultiple: FALSE
-asStatic: FALSE
+when: 1616819383.11326
