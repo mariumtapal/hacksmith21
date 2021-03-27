@@ -20,3 +20,14 @@ data <- read_xlsx("data.xlsx", skip = 1) %>% clean_names()
 map<-read_csv("mapDataFR.txt") 
 ```
 
+```{r}
+# leaflet map
+map %>% leaflet() %>% 
+  addTiles() %>%
+  addTiles(group = "Open Street Maps") %>% 
+  addCircleMarkers( 
+    data = map, radius = 10, 
+    popup = map$name) %>% 
+  setView(lng = -71.47275, lat = 42.24943, zoom = 7.5)
+```
+
